@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Twitch Inventory Drop Filter
-// @version      1.12
+// @version      1.13
 // @description  Filtre les Drops Twitch selon une liste de noms spécifiques
 // @author       ljere76
 // @match        https://www.twitch.tv/drops/inventory
